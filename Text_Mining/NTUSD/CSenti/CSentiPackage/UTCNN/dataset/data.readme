@@ -1,0 +1,7 @@
+[data per sample, seperated by two consequencing tabs (\t\t)]
+authors and likers (seperated by space)
+topics (seperated by space)
+label
+content (tokenized by space)
+commenters (seperated by space)
+comments (seperated by comma, tokenized by space)

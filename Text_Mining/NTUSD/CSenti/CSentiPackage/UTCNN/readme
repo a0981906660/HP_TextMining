@@ -1,0 +1,6 @@
+[Run the UTCNN model]
+% python UTCNN_release.py config.ini
+
+[Note]
+Please cite this paper when you use this code:
+    Wei-Fan Chen and Lun-Wei Ku. (2016). UTCNN: a Deep Learning Model of Stance Classification on Social Media Text. In COLING 2016.
